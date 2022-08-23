@@ -1,0 +1,18 @@
+<html lang="en">
+    <head>
+        <title>Document
+            <body>     {the body should comes after head not in the  head ]
+                guvi
+        </title>
+    </head>
+    <div>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        <div>         {"/ " is missed in the div}
+            <div>
+                Guvi Geek Network
+            </div>
+        </body>
+    </html>
+    
+    
+    
